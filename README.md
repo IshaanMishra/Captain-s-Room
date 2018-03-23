@@ -5,7 +5,7 @@ Mr. Anant Asankhya is the manager at the INFINITE hotel. The hotel has an infini
 One fine day, a finite number of tourists come to stay at the hotel. 
 The tourists consist of:
 → A Captain.
-→ An unknown group of families consisting of K members per group where  ≠ .
+→ An unknown group of families consisting of K members per group where  K≠1.
 
 The Captain was given a separate room, and the rest were given one room per group.
 
